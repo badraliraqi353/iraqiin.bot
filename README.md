@@ -1,0 +1,2 @@
+# iraqiin.bot
+ishtaraliraqi
